@@ -1,2 +1,2 @@
-ILP formulation to find potentially better construction with "more colors" for the lower bound of S_4, see 
+ILP formulation to find potentially better construction with "more colors" for the lower bound of $S_4$, see 
 [On a Turán problem in weakly quasirandom 3-uniform hypergraphs](https://www.math.uni-hamburg.de/home/schacht/2018/RT-weak.pdf) by Reiher, Rödl, and Schacht. 
