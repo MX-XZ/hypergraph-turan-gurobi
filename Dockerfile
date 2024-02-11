@@ -4,7 +4,7 @@ FROM gurobi/python:11.0.0_3.10
 WORKDIR /app
 
 # Install additional dependencies
-RUN python3 -m pip install numpy itertools
+RUN python3 -m pip install numpy scipy
 
 # Copy the application code
 ADD ILP.py /app
